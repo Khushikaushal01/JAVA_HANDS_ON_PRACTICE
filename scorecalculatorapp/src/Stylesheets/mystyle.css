@@ -1,0 +1,12 @@
+.formatstyle {
+    border: 2px solid blue;
+    padding: 20px;
+    width: 400px;
+    margin: 20px auto;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+.details {
+    color: green;
+    font-weight: bold;
+}

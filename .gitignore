@@ -37,3 +37,11 @@ build/
 .DS_Store
 bin/
 out/
+
+# React & Node
+node_modules/
+**/node_modules/
+build/
+**/build/
+.eslintcache
+*.log
